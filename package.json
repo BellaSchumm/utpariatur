@@ -1,0 +1,20 @@
+{
+  "name": "utpariatur",
+  "version": "1.0.0",
+  "description": "like web3 but for minimalists",
+  "main": "index.js",
+  "author": "EvieMetz",
+  "license": "ISC",
+  "dependencies": {
+    "json-rpc-random-id": "^1.0.0",
+    "xtend": "^4.0.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BellaSchumm/utpariatur.git"
+  },
+  "bugs": {
+    "url": "https://github.com/BellaSchumm/utpariatur.git/issues"
+  }
+}
